@@ -1,0 +1,6 @@
+id_paciente, edad, MMSE, MoCA, volumen_hipocampo, tiempo_diagnostico, nivel_actividad_fisica, imc
+11111, 65, 20, 22, 55, 7, 3, 21
+11112, 68, 23, 22, 48, 12, 3, 21
+11113, 58, 20, 20, 56, 3, 4, 25
+11114, 55, 25, 23, 57, 0, 3, 24
+11115, 60, 19, 21, 55, 0, 3, 21
