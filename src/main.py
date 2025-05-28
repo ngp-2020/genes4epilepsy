@@ -1,7 +1,12 @@
 import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
+import gseapy as gp
+from gseapy import Biomart
+bm = Biomart()
 
 
 # Cargar datos
+gene_list = pd.read_csv('./data/EpilepsyGenes_v2025-03.csv', sep = ';')
 
+print(gene_list.columns)
